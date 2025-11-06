@@ -47,3 +47,22 @@ ReactJobs/
 ├── vite.config.js
 └── README.md
 ```
+## ⚙️ How to Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/ShardulDhiwar/ReactJobs.git
+   cd ReactJobs
+2. Install dependencies
+  ```bash
+  npm install
+```
+3. Start the development server
+ ```
+  npm run dev
+ ```
+4. Open your browser
+```
+http://localhost:5173
+
+   
