@@ -28,4 +28,22 @@ It allows users to browse job openings, filter them by category or location, and
 ---
 
 ## 📂 Folder Structure
-
+```
+ReactJobs/
+│
+├── public/
+│ └── favicon.ico
+│
+├── src/
+│ ├── components/ # Reusable UI components (JobCard, Navbar, FilterBar)
+│ ├── data/ # Local job data file (jobs.js)
+│ ├── pages/ # Pages (Home, JobDetails)
+│ ├── App.jsx # Main router setup
+│ ├── main.jsx # React root entry point
+│ └── index.css # Tailwind base styles
+│
+├── package.json
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
+```
